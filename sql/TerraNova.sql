@@ -77,3 +77,5 @@ INSERT INTO viajes (titulo, planeta, descripcion, fecha_inicio, fecha_fin, preci
 
 ('Tour de Contrabandistas', 'Batuu', 'Visita el puesto de avanzada Black Spire. Construye tu propio sable de luz y prueba la leche azul en la cantina de Oga.', '2026-03-01', '2026-03-08', 1950.00, 1, 30, 'batuu_spire.jpg');
 
+INSERT INTO usuarios (nombre, apellidos, correo, contraseña, admin)
+VALUES ('Antonio', 'Albarrán', 'aalbjoy2704@g.educaand.es', '12345', 'SI');
