@@ -7,6 +7,15 @@ para clonar el proyecto; tenemos 3 opciones (solo explico tres ya que son las qu
 cuando la elijas en el selector; muy intuitivo de usar
 -la tercera; con el comando git clone más el enlace al git; con esto nos debemos meter primero desde el cmd en la carpeta donde queremos clonar el proyecto y luego poner git clone más el enlace al git y esperar a 
 que se descargue
+
+
+
+
+Credenciales de administrador (la que no es admin; la tienes que crear tu en el registro profesor):
+correo: aalbjoy2704@g.educaand.es
+contraseña: 12345
+
+
 Varias fotos de las pantallas principales del proyecto (al menos 4 fotos):
 
 Pantalla inicial:
